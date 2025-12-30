@@ -3,7 +3,7 @@
 ---
 
 ### 👨‍💻 Projects
-*(Coming soon... I'm currently documenting my latest security labs!)*
+- [Apply filters to SQL queries](https://github.com/Reda-Be/Apply-filters-to-SQL-queries) – Investigating security incidents and managing employee updates using MariaDB and SQL filters.
 
 ---
 
