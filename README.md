@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Reda! 👋 | $\color{blue}{\text{Junior Cybersecurity Analyst}}$
 
-<!--
-**Reda-Be/Reda-Be** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 👨‍💻 Projects
+*(Coming soon... I'm currently documenting my latest security labs!)*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 About Me
+
+- 🔭 I’m currently working on **expanding my Cybersecurity skills**.
+- 🌱 I’m currently learning **Network Security and Threat Detection**.
+- 🛡️ Focus: SOC Operations and Incident Response.
+- 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/reda-benrekaa-b8a388352)
