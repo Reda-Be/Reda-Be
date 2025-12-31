@@ -1,8 +1,9 @@
-:# Hi, I'm Reda! 👋 | $\color{blue}{\text{Junior Cybersecurity Analyst}}$
+# Hi, I'm Reda! 👋 | $\color{blue}{\text{Junior Cybersecurity Analyst}}$
 
 ---
 
 ### 👨‍💻 Projects
+- [Risk Analysis & Network Hardening](https://github.com/Reda-Be/Google-Cybersecurity-Risk-Assessment) – Remediation of a major data breach using Zero Trust Architecture, NIST standards, and firewall/SQL hardening.
 - [Cybersecurity Threat Modeling (NIST SP 800-30)](https://github.com/Reda-Be/nist-sp800-30-threats) – A theoretical and practical framework study for automating risk scoring based on official NIST standards.
 - [Update a file through a Python algorithm](https://github.com/Reda-Be/Update-a-file-through-a-Python-algorithm) – Automating the management of an IP allow list by removing unauthorized access using Python file I/O and logic.
 - [Apply filters to SQL queries](https://github.com/Reda-Be/Apply-filters-to-SQL-queries) – Investigating security incidents and managing employee updates using MariaDB and SQL filters.
