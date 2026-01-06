@@ -1,8 +1,10 @@
-# Hi, I'm Reda! 👋 | $\color{blue}{\text{Junior Cybersecurity Analyst}}$
+# Hi, I'm Reda! 👋 | Welcome to my portfolio
 
 ---
 
 ### 👨‍💻 Projects
+- [⚔️🛡️ RDP Attack Detection & Active Defense](https://github.com/Reda-Be/-RDP-Attack-Detection-and-Active-Defense-Lab) – RDP brute-force attack simulation and implementation of active defense mechanisms to block malicious IPs.
+- [🛡️ Wazuh FIM Windows Lab](https://github.com/Reda-Be/Wazuh-FIM-Windows-Lab) – Setting up a File Integrity Monitoring (FIM) lab with Wazuh to detect suspicious modifications on Windows server 2022
 - [🛡️ CyberSentinel: Home Security Audit Toolkit](https://github.com/Reda-Be/CyberSentinel-Home-Security-Audit-Toolkit) – A Python-based security scanner for home networks. Features automated OS profiling, firewall hardening checks, and real-time security reporting.
 - [Risk Analysis & Network Hardening](https://github.com/Reda-Be/Google-Cybersecurity-Risk-Assessment) – Remediation of a major data breach using Zero Trust Architecture, NIST standards, and firewall/SQL hardening.
 - [Cybersecurity Threat Modeling (NIST SP 800-30)](https://github.com/Reda-Be/nist-sp800-30-threats) – A theoretical and practical framework study for automating risk scoring based on official NIST standards.
